@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=https://t.me/etjson&color=0088cc)](https://t.me/etjson)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
